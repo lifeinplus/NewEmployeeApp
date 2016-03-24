@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.462" PIVersion="1.0.0.0" href="http://forms.ocs.ru/DocLib/Forms/template.xsn" name="urn:schemas-microsoft-com:office:infopath:Tn0l--m--o0hel-mnb-5-1n203dmhjnb-OCS:-myXSD-2007-12-03T11-25-09" productVersion="15.0.0" ?><?mso-application progid="InfoPath.Document"?><my:New_Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:d="http://schemas.microsoft.com/office/infopath/2003/ado/dataFields" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xdEnvironment="http://schemas.microsoft.com/office/infopath/2006/xslt/environment" xmlns:xdUser="http://schemas.microsoft.com/office/infopath/2006/xslt/User" xmlns:xsf2="http://schemas.microsoft.com/office/infopath/2006/solutionDefinition/extensions" xmlns:xdServerInfo="http://schemas.microsoft.com/office/infopath/2009/xslt/ServerInfo" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2007-12-03T11:25:09" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="ru">
+	<my:HR>
+		<my:Birthday>17.02.1982</my:Birthday>
+		<my:Passport_series></my:Passport_series>
+		<my:Passport_number></my:Passport_number>
+		<my:Passport_gived> </my:Passport_gived>
+		<my:Home_address></my:Home_address>
+		<my:Mobilephone></my:Mobilephone>
+	</my:HR>
+	<my:Department_1C>OCS/ФЭУ/Объединенное бухгалтерское управление/Департамент расчетов с покупателями/Отдел клиент-менеджеров</my:Department_1C>
+	<my:Section_1C></my:Section_1C>
+	<my:LastNameR>Орешкина</my:LastNameR>
+	<my:LastNameE></my:LastNameE>
+	<my:NameR>Евгения</my:NameR>
+	<my:NameE></my:NameE>
+	<my:PatronymicR>Александровна</my:PatronymicR>
+	<my:Post_1C>кредит-менеджер</my:Post_1C>
+	<my:LeaderSD>Брагин Константин Николаевич</my:LeaderSD>
+	<my:LocationSD>СПб/Бизнес центр/3 этаж/каб. 311</my:LocationSD>
+	<my:City_1C></my:City_1C>
+	<my:HR_Auto>0</my:HR_Auto>
+	<my:WorkStart>2015-06-10</my:WorkStart>
+	<my:HR_Comment></my:HR_Comment>
+	<my:Prodakt>0</my:Prodakt>
+	<my:EmployeeRole>Нет</my:EmployeeRole>
+	<my:Chief></my:Chief>
+	<my:AddSoft>2</my:AddSoft>
+	<my:AddSoft-1C>1</my:AddSoft-1C>
+	<my:AddSoft-Access>0</my:AddSoft-Access>
+	<my:AddSoft-Optional>Необходимое программное обеспечение, не указанное в списке, можно добавить в этом поле</my:AddSoft-Optional>
+	<my:AccessR></my:AccessR>
+	<my:AccessW></my:AccessW>
+	<my:DistList_Groups>2</my:DistList_Groups>
+	<my:DistList_Groups-List>МКК,МКК-Регион, Дебиторы с просрочками</my:DistList_Groups-List>
+	<my:Phone>1</my:Phone>
+	<my:Admins></my:Admins>
+	<my:Login></my:Login>
+	<my:Password></my:Password>
+	<my:Checks>
+		<my:hrwassent>1</my:hrwassent>
+		<my:mgrwassent>1</my:mgrwassent>
+		<my:blockmgr>0</my:blockmgr>
+		<my:MGR_Comment></my:MGR_Comment>
+		<my:admission>0</my:admission>
+		<my:RoleAssigned>0</my:RoleAssigned>
+	</my:Checks>
+	<my:KuratorSD></my:KuratorSD>
+	<my:Company_1C>ООО "О-Си-Эс-Центр"</my:Company_1C>
+	<my:AxaptaRightsSD></my:AxaptaRightsSD>
+	<my:HR_Comp>1</my:HR_Comp>
+	<my:InitiatorSD>0000000812</my:InitiatorSD>
+	<my:SendTo>1</my:SendTo>
+	<my:field1></my:field1>
+	<my:field5>false</my:field5>
+	<my:EmployeeID>1000002913</my:EmployeeID>
+	<my:Company_1C_views>ООО "О-Си-Эс-Центр"</my:Company_1C_views>
+	<my:HR_Account>1</my:HR_Account>
+	<my:LocationShort>СПБ/БЦ/К311</my:LocationShort>
+	<my:HomePhone1C></my:HomePhone1C>
+	<my:field6>false</my:field6>
+	<my:field7>false</my:field7>
+	<my:admission_number></my:admission_number>
+	<my:Monitor>1</my:Monitor>
+	<my:AxaptaTraining>2</my:AxaptaTraining>
+	<my:field8></my:field8>
+	<my:HR_Comp_Comment></my:HR_Comp_Comment>
+	<my:WorkStartHand>0</my:WorkStartHand>
+	<my:field9></my:field9>
+	<my:DistList_Groups-ListAuto></my:DistList_Groups-ListAuto>
+	<my:field10 xsi:nil="true"></my:field10>
+	<my:WorkplaceReady>2015-06-10</my:WorkplaceReady>
+	<my:WorkplaceReadyHand>0</my:WorkplaceReadyHand>
+</my:New_Employee>
